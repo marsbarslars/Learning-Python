@@ -1,0 +1,3 @@
+# Practice Assignment
+
+Make a program called `module_1_practice.py`. In that program, print any string of your design. Then, assign another string to the variable `message` and print the variable's value.
