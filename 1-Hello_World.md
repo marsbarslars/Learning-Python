@@ -1,6 +1,7 @@
-# Hello World
+# 1: Hello World
 
-ff
-f
+Make and open a new file called `hello_world.py`. On the first line, type `print('Hello world!')`.
 
-fff
+Execution will print the line `Hello world!` to your terminal.
+
+Congratulations! You made your first program!
