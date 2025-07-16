@@ -1,4 +1,4 @@
-# 2: Strings
+# 3: Strings
 
 A string is one data type used in Python. It is a string of characters, which can be letters, numbers, or other special characters.
 In a Python program, strings are differentiated from the rest of the code by single ('') or double ("") quotation marks.
